@@ -4,7 +4,7 @@ import fetch from 'node-fetch'; // đảm bảo dùng Node < 18
 //const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ''; // tốt hơn dùng biến môi trường
 //const TELEGRAM_CHAT_IDS = process.env.TELEGRAM_CHAT_IDS || ''; // comma-separated
 
-const TELEGRAM_BOT_TOKEN = '8675498310:AAFZWLgXTWl_LwAnB5kB9XuklREnSRM9TPY';  // paste your bot token here
+const TELEGRAM_BOT_TOKEN = 'bot8675498310:AAFZWLgXTWl_LwAnB5kB9XuklREnSRM9TPY';  // paste your bot token here
 const TELEGRAM_CHAT_IDS = '-5205589429';      // paste your chat id here (comma-separated for multiple)
 
 const ALLOWED_ORIGIN = '';
